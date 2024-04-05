@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">P</string>
+
+    <string name="screen1">Upload</string>
+    <string name="screen2">Create</string>
+    <string name="screen3">Expands</string>
+
+    <string name="screen1desc">Upload the words that you wish to showcase in front of whole world.
+        "Be simple but Creative".
+        </string>
+    <string name="screen2desc">Create, edit, and upload your own Originality.
+        All you need is a good flow of thoughts. </string>
+    <string name="screen3desc">Expand your Imagination in this vast field full of different categories </string>
+
+    <string name="startDesc">Create, Upload and Enhance the creativity on Poetizer. Interact with your fellow users through opinion section .</string>
+
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
